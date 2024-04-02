@@ -1,16 +1,21 @@
 # ShooterDemo / Good Mood Games
 
+
 Proje unity sürümü : 2022.3.22f1
 
 Projeyi indirip "MainScene" sahnesinde direkt olarak çalıştırabilirsiniz. Test ettim herhangi bir problem yoktur.
 
 Keyboard/mouse + gamepad olarak oynanabilir şekilde tasarlanmıştır.
 
+
 Kullanılan özellikler:
 
 Singleton
+
 Object pooling
+
 Interface
+
 
 Buglar :
 
